@@ -9,4 +9,4 @@
 `uiflow -i myuiflow.txt -o myuiflow.png -f png`
 
 ## To generate SVG
-`uiflow -i myuiflow.txt -o myuiflow.png -f svg`
+`uiflow -i myuiflow.txt -o myuiflow.svg -f svg`
