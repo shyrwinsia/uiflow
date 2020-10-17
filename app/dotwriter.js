@@ -14,11 +14,11 @@ dot.node = {
     style: "solid",
     fontsize: 11,
     margin: "0.1,0.1",
-    fontname: "Osaka-Mono,ＭＳ ゴシック",
+    fontname: "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
 };
 dot.edge = {
-    fontsize: 9,
-    fontname: "Osaka-Mono,ＭＳ ゴシック",
+    fontsize: 9,    
+    fontname: "-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif",
     color: "#777777"
 };
 
